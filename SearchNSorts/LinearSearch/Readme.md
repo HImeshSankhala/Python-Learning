@@ -6,11 +6,11 @@
 
 Time Complexity:
 
-Iterative Search: O(n) because it needs to check each element in the worst case.
-Recursive Search: O(n) because it makes a recursive call for each element.
-Regex-Based Search: O(n) because it scans through the string representation of the array.
-Space Complexity:
+Iterative Search: O(n) because it needs to check each element in the worst case.<br>
+Recursive Search: O(n) because it makes a recursive call for each element.<br>
+Regex-Based Search: O(n) because it scans through the string representation of the array.<br>
+Space Complexity:<br>
 
-Iterative Search: O(1) since it uses a constant amount of extra space (only a few variables).
-Recursive Search: O(n) due to the additional space required for the recursive call stack.
-Regex-Based Search: O(n) because the entire array is converted into a string, and additional space is required for the regex operation.
+Iterative Search: O(1) since it uses a constant amount of extra space (only a few variables).<br>
+Recursive Search: O(n) due to the additional space required for the recursive call stack.<br>
+Regex-Based Search: O(n) because the entire array is converted into a string, and additional space is required for the regex operation.<br>
